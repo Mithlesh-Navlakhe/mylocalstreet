@@ -22,7 +22,7 @@ html,
   font-size: 3rem;
 }
 
-.container {
+.containers {
   position: relative;
   width: 100%;
   overflow: hidden;
